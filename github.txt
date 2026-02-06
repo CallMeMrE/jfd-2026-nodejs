@@ -6,7 +6,7 @@ fungsi github:
 
 status dalam git:
 1. (U) untracked > fuile yang belum terdaftar sistem git
-2. Modification > file yang exiting , di Modification/dilakukan perubahan isi file
+2. (M) Modification > file yang exiting , di Modification/dilakukan perubahan isi file
 3. (A) Added > file sudah memasuki stage add 
 
 langkah langkan mengirim source ke github : 
